@@ -6,7 +6,6 @@ Each library is designed to be:
 
 - 🧩 Modular and lightweight
 - 📦 Easy to integrate (just copy or add as a dependency)
-- 🧪 Tested and documented
 - ✅ Free to use under the MIT License
 
 ## 📚 Available Libraries
