@@ -42,4 +42,4 @@ Explore the [libraries.md](./libraries.md) file for descriptions, install comman
 
 ## 💬 Contribute
 
-If you know a must-have web library, feel free to [open a PR](https://github.com/your-repo-url) and help others discover it!
+If you know a must-have web library, feel free to [open a PR](https://github.com/AdrianLargoGit/Useful-libraries) and help others discover it!
