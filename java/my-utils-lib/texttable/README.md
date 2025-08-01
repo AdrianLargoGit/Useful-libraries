@@ -16,14 +16,6 @@
 
 ---
 
-## 📦 Installation
-
-Just copy the source files (`Table.java`, `Row.java`, `Align.java`) into your project.
-
-> ✅ Maven/Gradle support coming soon!
-
----
-
 ## 🧑‍💻 Contributing
 
 Pull requests are welcome!
