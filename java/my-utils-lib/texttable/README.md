@@ -24,7 +24,7 @@ If you have ideas, improvements, or bug reports, feel free to [open an issue](ht
 
 ## 📄 License
 
-This project is licensed under the [MIT License](..../LICENSE).  
+This project is licensed under the MIT License.  
 You are free to use, modify, and distribute it with proper attribution.
 
 ## 💡 Author
