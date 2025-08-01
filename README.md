@@ -6,6 +6,7 @@
 - [🐍 Python](./python/README.md)
 - [📦 JavaScript](./javascript/README.md)
 - [☕ Java](./java/README.md)
+- [🐹 Go](./go/README.md)
 - [🌐 Web](./web/README.md)
 - [📊 Data Science](./data-science/README.md)
 
