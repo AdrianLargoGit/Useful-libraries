@@ -12,7 +12,7 @@
 
 ## ✨ Custom Utilities
 
-- [My Java Utils Library](./java/my-utils-lib)
+- [TextTable (My lib)](./java/my-utils-lib)
 
 ## 🤝 Contributing
 
