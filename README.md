@@ -19,4 +19,4 @@ Pull requests are welcome! If you know a powerful or underrated library, feel fr
 
 ## 📄 License
 
-MIT
+[MIT](./LICENSE)
