@@ -20,7 +20,7 @@
 
 Pull requests are welcome!
 
-If you have ideas, improvements, or bug reports, feel free to [open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) or submit a pull request.
+If you have ideas, improvements, or bug reports, feel free to [open an issue](https://github.com/AdrianLargoGit/Useful-libraries/issues) or submit a pull request.
 
 ## 📄 License
 
