@@ -17,44 +17,22 @@
 
 ---
 
-## 📆 Installation
+## 📦 Download
 
-Add the JAR manually or publish to your Maven/Gradle repository.
+You can download the latest `.jar` from [Here](https://github.com/AdrianLargoGit/useful-libraries/java/my-utils-lib/texttable/TextTable.jar)
 
-<details>
-<summary><strong>Gradle</strong></summary>
-
-```
-dependencies:
-  implementation 'com.adrianlargogit:texttable:1.0.0'
-```
-
-</details>
-
-<details>
-<summary><strong>Maven</strong></summary>
-
-```xml
-<dependency>
-  <groupId>com.adrianlargogit</groupId>
-  <artifactId>texttable</artifactId>
-  <version>1.0.0</version>
-</dependency>
-```
-
-</details>
+1. Go to: [TextTable.jar](https://github.com/AdrianLargoGit/useful-libraries/java/my-utils-lib/texttable/TextTable.jar)
+2. Download the latest `TextTable.jar`
+3. Add it to your project manually:
+   - **In IntelliJ/Eclipse:** Add to your module/classpath
+   - **Or via command line:** Include with `-cp` when compiling/running
 
 ---
 
 ## 🚀 Quick Start
 
 ```java
-import com.adrianlargogit.texttable.*;
-
-public class Main
-{
-  public static void main(String[] args)
-  {
+public static void main(String[] args){
     Table table = new Table("Name", "Age", "Country")
         .withIdColumn(true); // Adds an auto-incrementing ID column
 
@@ -70,7 +48,6 @@ public class Main
     table.replaceCell(2, 1, "Carlos");           // By column index
 
     table.print();
-  }
 }
 ```
 
