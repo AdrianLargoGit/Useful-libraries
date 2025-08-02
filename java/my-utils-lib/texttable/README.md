@@ -13,7 +13,7 @@
 * ✅ Replace values by column index or name
 * ✅ Fluent and intuitive API
 * ✅ Zero dependencies – pure Java
-* More soon
+* ✅ Export and import from CSV
 
 ---
 
@@ -119,6 +119,14 @@ Replaces the content of a cell by header name.
 
 Prints the formatted table to the console.
 
+### `fromCSV(String path, boolean hasHeader, boolean includeId, String separator)`
+
+Import your own table from your CSV.
+
+### `exportCSV(String path)`
+
+Export your table to your own CSV.
+
 ---
 
 ## 🎨 ANSI Colors
@@ -167,15 +175,6 @@ com/adrianlargogit/texttable/
 javac -d out src/com/adrianlargogit/texttable/*.java
 java -cp out com.adrianlargogit.texttable.Main
 ```
-
----
-
-## 📢 Roadmap Ideas
-
-* [ ] Export to CSV/Markdown
-* [ ] Style themes (minimal, boxed, bold)
-* [ ] Column width limit
-* [ ] Conditional formatting
 
 ---
 
