@@ -19,9 +19,9 @@
 
 ## 📦 Download
 
-You can download the latest `.jar` from [Here](https://github.com/AdrianLargoGit/useful-libraries/java/my-utils-lib/texttable/TextTable.jar)
+You can download the latest `.jar` from [Here](TextTable.jar)
 
-1. Go to: [TextTable.jar](https://github.com/AdrianLargoGit/useful-libraries/java/my-utils-lib/texttable/TextTable.jar)
+1. Go to: [TextTable.jar](TextTable.jar)
 2. Download the latest `TextTable.jar`
 3. Add it to your project manually:
    - **In IntelliJ/Eclipse:** Add to your module/classpath
