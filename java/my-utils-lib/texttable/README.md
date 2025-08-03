@@ -157,7 +157,7 @@ java -cp out com.adrianlargogit.texttable.Main
 
 ## 📄 License
 
-MIT License © 2025 \[AdrianLargoGit](https://github.com/AdrianLargoGit).
+MIT License © 2025 [AdrianLargoGit](https://github.com/AdrianLargoGit).
 
 ## 💡 Author
 
